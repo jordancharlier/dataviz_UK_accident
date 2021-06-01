@@ -194,7 +194,7 @@ tornado==4.5.1
 traitlets==4.3.2
 Twisted==17.9.0
 unicodecsv==0.14.1
-urllib3==1.22
+urllib3==1.26.5
 utm==0.4.2
 virtualenv==15.1.0
 w3lib==1.19.0
